@@ -45,6 +45,14 @@ const SaasPortal = () => {
       icon: <Eye size={32} />,
       color: "#6e49cb",
     },
+    {
+      id: "home",
+      name: "leap.london",
+      description: "leap website",
+      url: "https://leap.london",
+      icon: <Eye size={32} />,
+      color: "#268d0c",
+    },
   ];
 
   return (
