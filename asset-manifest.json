@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/leap-portal/static/css/main.bcd85552.css",
-    "main.js": "/leap-portal/static/js/main.7ba07dd6.js",
+    "main.js": "/leap-portal/static/js/main.304654d8.js",
     "static/js/453.466c848c.chunk.js": "/leap-portal/static/js/453.466c848c.chunk.js",
     "index.html": "/leap-portal/index.html",
     "main.bcd85552.css.map": "/leap-portal/static/css/main.bcd85552.css.map",
-    "main.7ba07dd6.js.map": "/leap-portal/static/js/main.7ba07dd6.js.map",
+    "main.304654d8.js.map": "/leap-portal/static/js/main.304654d8.js.map",
     "453.466c848c.chunk.js.map": "/leap-portal/static/js/453.466c848c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcd85552.css",
-    "static/js/main.7ba07dd6.js"
+    "static/js/main.304654d8.js"
   ]
 }
