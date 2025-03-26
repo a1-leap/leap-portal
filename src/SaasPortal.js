@@ -1,5 +1,13 @@
 import React, { useState } from "react";
-import { Mail, Calendar, FileText, Play, Eye } from "lucide-react";
+import {
+  Mail,
+  Calendar,
+  FileText,
+  Play,
+  Eye,
+  Users,
+  Globe,
+} from "lucide-react";
 
 const SaasPortal = () => {
   const [hoveredCard, setHoveredCard] = useState(null);
@@ -50,8 +58,16 @@ const SaasPortal = () => {
       name: "leap.london",
       description: "leap website",
       url: "https://leap.london",
-      icon: <Eye size={32} />,
+      icon: <Globe size={32} />,
       color: "#268d0c",
+    },
+    {
+      id: "staffology",
+      name: "Staffology HR",
+      description: "HR Portal",
+      url: "https://app.staffologyhr.co.uk/portal/",
+      icon: <Users size={32} />,
+      color: "#27ae60",
     },
   ];
 
