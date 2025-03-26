@@ -7,6 +7,7 @@ import {
   Eye,
   Users,
   Globe,
+  BadgeHelp,
 } from "lucide-react";
 
 const SaasPortal = () => {
@@ -68,6 +69,14 @@ const SaasPortal = () => {
       url: "https://app.staffologyhr.co.uk/portal/",
       icon: <Users size={32} />,
       color: "#27ae60",
+    },
+    {
+      id: "helpdesk",
+      name: "IT Helpdesk Form",
+      description: "IT Form",
+      url: "https://wkf.ms/3EOc7NG",
+      icon: <BadgeHelp size={32} />,
+      color: "#FFD1DF",
     },
   ];
 
